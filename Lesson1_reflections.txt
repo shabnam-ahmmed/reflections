@@ -1,0 +1,3 @@
+Version Control System: Version Control is a system, where the changed file(s) is stored over time, and we can use a specific version at any time. GIT is really useful Version Control System. We also can compare between changed files using GIT. Although we can compare files using FC(file compare) command. Those who are not familiar with FC command, here is the basics of FC command:
+To file compare we can use window’s cmd. Go to window’s run, type cmd , when you click ok, it will run command prompt. now type 
+FC filename1.extension  filename2. Extension
